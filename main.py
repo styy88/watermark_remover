@@ -14,7 +14,7 @@ from astrbot.api.logger import logger
 
 
 @register(
-    name="astrbot_plugin_watermark_remover",
+    name="watermark_remover",
     author="AstrBot Community",
     description="发送抖音视频链接，自动去除水印并返回无水印视频地址。",
     version="1.0.0"
