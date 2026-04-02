@@ -1,26 +1,7 @@
-# 插件唯一标识名（必须与目录名一致）
-name: astrbot_plugin_watermark_remover
-
-# 插件展示名（在 WebUI 中显示）
+name: watermark_remover
 display_name: 水印去除助手
-
-# 插件版本
 version: 1.0.0
-
-# 插件作者
 author: AstrBot Community
-
-# 插件简要描述
 description: 发送抖音视频链接，自动去除水印并返回无水印视频地址。
-
-# 依赖的 AstrBot 版本范围（>=4.0 即可）
 astrbot_version: ">=4.0"
-
-# 支持的平台适配器（可选，留空表示适配所有平台）
 support_platforms: []
-
-# 插件仓库地址（可选）
-# repository: https://github.com/yourname/astrbot_plugin_watermark_remover
-
-# 插件许可证（可选）
-# license: MIT
