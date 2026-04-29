@@ -5,3 +5,4 @@ author: xiaoxin
 description: 支持抖音、B站、快手、小红书等主流平台视频链接去水印，发送链接即可自动返回无水印视频地址。
 astrbot_version: ">=4.0"
 support_platforms: []
+repo: https://github.com/styy88/watermark_remover
